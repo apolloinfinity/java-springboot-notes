@@ -1,1 +1,1 @@
-# Notes on Java Spring Book
+# Notes on Java Spring Boot
