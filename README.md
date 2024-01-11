@@ -23,6 +23,13 @@ Springbook is an open-source Java-based framework used to create standalone prod
 9. **Developer Tools:**
 	- Spring Boot has built-in tools like automatic restarts, live reload, and quick diagnostics, enhancing the developer experience and productivity. 
 
+## Use Cases for Spring Boot
+- **Creating RESTful Web Services:** Easily create RESTful services with minimal configuration. 
+- **Microservices:** Ideal for building and deploying microservices.
+- **Rapid Application Development:** Speeds up development process for enterprise applications. 
+- **Cloud-native Applications:** Suitable for developing cloud-native applications which are scalable and robust. 
+
+
 
 ### What is Maven?
 Maven is a build automation tool use primarly for Java projects and it allows developers to build and document the lifecycle framework. It is developed by the Apache Group.
