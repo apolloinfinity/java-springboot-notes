@@ -16,7 +16,12 @@ Springbook is an open-source Java-based framework used to create standalone prod
 	- Because of Spring Boot's fast startup, embedded server, and easy configuration, it is well suited for building microservices. 
 6. **Minimal Configuration:** 
 	- The framework reduces the need for specifying boilerplate configuration by leveraging Spring's dependancy injection and autoconfiguration.
-7. Easy
+7. **Easy Dependancy Management:**
+	- To simplify the Maven and Gradle build files, Spring Boot manages dependencies and their compatible versions via its starter POMs.
+8. **Actuator:**
+	- Spring Boot Actuator provides production-ready features like monitoring and managing your application when it's pushed into production. 
+9. **Developer Tools:**
+	- Spring Boot has built-in tools like automatic restarts, live reload, and quick diagnostics, enhancing the developer experience and productivity. 
 
 
 ### What is Maven?
