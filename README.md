@@ -5,9 +5,9 @@ Springbook is an open-source Java-based framework used to create standalone prod
 
 ## **Core Features of Springboot**
 1. Autoconfiguration:
- - Springboot will automatically configure your application based on its dependencies. 
+	- Springboot will automatically configure your application based on its dependencies. 
 2. Standalone:
- - Spring Boot applications don't require an external server to run. They include an embedded server like Tomcat, Jetty, or Undertow, making it easy to deploy and test web applications. 
+	- Spring Boot applications don't require an external server to run. They include an embedded server like Tomcat, Jetty, or Undertow, making it easy to deploy and test web applications. 
 
 
 ### What is Maven?
